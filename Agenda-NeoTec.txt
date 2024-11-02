@@ -1,0 +1,49 @@
+                                           NeoTec: Network Operation for Telecom Cloud 
+
+Background:
+Telecom cloud refers to the cloud system operated by a network operator. As Telecom cloud evolves towards multi-cloud and edge cloud models, how the network operation dynamically meets the needs of the cloud service has been a big concern. This side meeting will discuss the use cases, requirements and possible work in management and operation of network for Telecom Cloud. This presents both challenges and opportunities for collaboration, particularly within the IETF.
+
+
+Time: 19:00 - 20:00 Tuesday, Novermber 5, 2024 (UTC Time - Dublin)
+Location: Wicklow Meeting Room 4
+
+
+Chairs:
+Chongfeng Xie (Chongfeng.xie@foxmail.com)
+Linda Dunbar (linda.dunbar@futurewei.com)
+
+
+Join the meeting click on the link:
+TBD. 		
+
+
+Agenda: 
+
+19:00  Opening
+
+19:05  A Use Case of Network Operation for Telecom Cloud   (8 mins)
+           Related draft:  draft-zx-neotec-net4cloud-usecase
+           Yue Zhang(China Telecom)
+
+19:13  DC aware TE topology model   (8 mins)
+           Related draft:  draft-llc-teas-dc-aware-topo-model
+           Luis M. Contreras (Telefonica)
+
+19:21  SFC operation for Cloud Network Collaboration    (8 mins)
+           Related draft:  draft-pang-sfc-interface-cnc
+           Ran Pang(China Unicom)
+
+19:29   Dynamic Network Adjustment for Cloud Service Scaling  (8 mins)
+           Related draft:  draft-dunbar-neotec-net-adjust-cloud-scaling-00
+                                   draft-dxs-neotec-crossdomain-net-mgnt-dm-00
+           Linda Dunbar (Futurewei) or    (Oracle) 
+
+19:37   Potential scope and work item discussion  (18 mins)
+
+19:55   Summary (5 mins)
+
+20:00   End
+
+
+
+
